@@ -1,0 +1,10 @@
+@import 'colours.scss';
+
+//comments will be removed
+
+.app {
+  background-color: $badass;
+  &.main {
+    color: $coffee;
+  }
+}
